@@ -34,7 +34,7 @@ Sigue estos pasos para clonar e instalar el proyecto en tu entorno de desarrollo
 
 1. **Clonar el repositorio**:
     ```bash
-    git clone https://github.com/jmcasgar/Ejemplo_tienda/blob/main/apkTienda-master.zip
+    git clone https://github.com/jmcasgar/Ejemplo_tienda.git
     cd TiendaApp
     ```
 
